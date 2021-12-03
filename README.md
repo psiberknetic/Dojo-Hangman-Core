@@ -1,2 +1,2 @@
 # Dojo-Hangman-Core
-A core version of the Dojo-Hangman project
+This repo was created to be used for a Coder Dojo weekend for kids to create a hangman game.
